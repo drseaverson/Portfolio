@@ -57,4 +57,5 @@ The project can be accessed [here](https://github.com/DerekSeaverson/Manical-Mag
 > My .NET API Website was a beginner website that I created with the function of the user being able to quickly retrieve all the current movies that contain any words/title that the user queries.
 
 *This website was a simple project to learn the .NET functionality. It was originally a project when applying to a position while job searching, but as I love learning more, I have begun to expand on the project and take it to another level.*
-> The .NET API can be accessed [here](https://github.com/drseaverson/MovieSearchWebPage) and be downloaded to see if in progress.
+
+The .NET API can be accessed [here](https://github.com/drseaverson/MovieSearchWebPage) and be downloaded to see if in progress.
