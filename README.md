@@ -9,6 +9,8 @@
 
 This is a portfolio to make it easy to access all my personal projects and any other information that may be of use. 
 
+> Some of the current project links are connected to my school github page. Eventually all the repositories/projects will be transferred to this github.
+
 Please refer [here](#space-offensive) for information and progress on my most recent project that I am working on.
 
 ## About this Portfolio
