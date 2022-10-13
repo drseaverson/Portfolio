@@ -56,7 +56,7 @@ The project can be accessed [here](https://github.com/DerekSeaverson/Manical-Mag
     - The project files can be viewed [here](https://github.com/drseaverson/Google-Maps-Android-App) including a [preview](https://github.com/drseaverson/Google-Maps-Android-App/blob/main/Images/Screenshot_20221013_100701.png) of the application running.
 2. Courses GPA Application
     - This Android project helps the user manage and display all off their current courses and overall GPA between all curent courses. The user also has the ability to add and remove courses from the list to better manage between semesters.
-    - The project files can be viewed [here](https://github.com/drseaverson/Android-Courses-Application) including a [preview]() of the application screens running.
+    - The project files can be viewed [here](https://github.com/drseaverson/Android-Courses-Application) including a [preview](https://github.com/drseaverson/Android-Courses-Application/tree/main/Images) of the application screens running.
 
 *This list will be updated accordingly once I began to upload and format each project that I feel could have some level of importance to my portfolio as we worked on a multitude of Android applications throughout the course of the class.*
 
