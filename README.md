@@ -53,7 +53,7 @@ The project can be accessed [here](https://github.com/DerekSeaverson/Manical-Mag
 
 1. Google Maps Path Display
     - This Android Project takes a list of longitude and latitude points and displays a path on google maps to connect all the points accordingly including start and end points.
-    - The project files can be viewed [here](https://github.com/drseaverson/Google-Maps-Android-App) including a [preview]() of the application running.
+    - The project files can be viewed [here](https://github.com/drseaverson/Google-Maps-Android-App) including a [preview](https://github.com/drseaverson/Google-Maps-Android-App/blob/main/Images/Screenshot_20221013_100701.png) of the application running.
 2. 
 *This list will be updated accordingly once I began to upload and format each project that I feel could have some level of importance to my portfolio as we worked on a multitude of Android applications throughout the course of the class.*
 
