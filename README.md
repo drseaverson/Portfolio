@@ -61,7 +61,7 @@ The project can be accessed [here](https://github.com/DerekSeaverson/Manical-Mag
     - This Android project uses an API to pull/store information for the application such as user login information, user post contents and more. 
     - The user is required to login/sign up to create posts so information can be properly displayed on the post forum page. 
     - Lastly, users are intended to only be able to delete their own posts form the forum page.
-    - The project files can be viewed [here](https://github.com/drseaverson/Android-API-Login-App) including [preview]() screens of the application running.
+    - The project files can be viewed [here](https://github.com/drseaverson/Android-API-Login-App) including [preview](https://github.com/drseaverson/Android-API-Login-App/tree/main/Images) screens of the application running.
 
 *This list will be updated accordingly once I began to upload and format each project that I feel could have some level of importance to my portfolio as we worked on a multitude of Android applications throughout the course of the class.*
 
