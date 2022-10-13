@@ -57,6 +57,11 @@ The project can be accessed [here](https://github.com/DerekSeaverson/Manical-Mag
 2. Courses GPA Application
     - This Android project helps the user manage and display all off their current courses and overall GPA between all curent courses. The user also has the ability to add and remove courses from the list to better manage between semesters.
     - The project files can be viewed [here](https://github.com/drseaverson/Android-Courses-Application) including a [preview](https://github.com/drseaverson/Android-Courses-Application/tree/main/Images) of the application screens running.
+3. User Post API Login
+    - This Android project uses an API to pull/store information for the application such as user login information, user post contents and more. 
+    - The user is required to login/sign up to create posts so information can be properly displayed on the post forum page. 
+    - Lastly, users are intended to only be able to delete their own posts form the forum page.
+    - The project files can be viewed [here](https://github.com/drseaverson/Android-API-Login-App) including [preview]() screens of the application running.
 
 *This list will be updated accordingly once I began to upload and format each project that I feel could have some level of importance to my portfolio as we worked on a multitude of Android applications throughout the course of the class.*
 
